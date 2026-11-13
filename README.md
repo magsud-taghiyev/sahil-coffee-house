@@ -14,11 +14,11 @@ An Azerbaijani-first coffee house website concept for Baku, with a custom emblem
 - Interactive coffee and light-bites menu tabs
 - Custom SVG emblem and matching favicon
 - Accessible navigation, alt text, visible keyboard focus, and reduced-motion support
-- React 19, TypeScript, Vite, TanStack Start, Cloudflare Workers
+- React 19, TypeScript, Vite, TanStack Start, and Cloudflare Workers
 
 ## Source
 
-[Download the complete React project source](https://d2ol7oe51mr4n9.cloudfront.net/user_3M3PdWHrOkdokpbO7WSEDcFX6wU/2e886fec-88a4-47b3-828c-b493b42a9ff1.zip)
+[Download the complete React project source](sahil-coffee-house-source.zip)
 
 ## Run locally
 
